@@ -36,7 +36,7 @@
     <repository>
      <id>github</id>
      <name>GitHub Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-junit-ericanderson2</url>
+     <url>https://github.com/CS1632/supplementary-exercise-4-ci-cd-junit-ericanderson2</url>
     </repository>
    </distributionManagement>
   
